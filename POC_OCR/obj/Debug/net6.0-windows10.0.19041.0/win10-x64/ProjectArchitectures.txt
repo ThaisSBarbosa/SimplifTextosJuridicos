@@ -1,0 +1,1 @@
+C:\POC_OCR\POC_OCR\POC_OCR.csproj;x64
